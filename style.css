@@ -1,0 +1,47 @@
+body {
+  background: linear-gradient(120deg, #3378ff, #9442fe);
+}
+
+.form-container {
+  max-width: 500px;
+  margin: 60px auto;
+}
+
+html {
+  height: 100%;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  font-weight: 700;
+}
+
+.userDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border-radius: 9px;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+.users {
+  width: 500px;
+  height: 100px;
+  margin: 40px auto;
+}
+
+.butt {
+  margin-left: 20px;
+}
+
+.butt,
+.buttU {
+  height: 38px;
+}
